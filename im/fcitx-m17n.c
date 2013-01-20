@@ -410,7 +410,7 @@ FcitxIRV FcitxM17NDoInput(void* arg, FcitxKeySym sym, unsigned state)
 FcitxIRV FcitxM17NDoInputInternal(IM* im, FcitxKeySym sym, unsigned state)
 {
     FcitxInstance* inst = im->owner->owner;
-    FcitxInputState* is = FcitxInstanceGetInputState(inst);
+    // FcitxInputState* is = FcitxInstanceGetInputState(inst);
     FcitxInputContext* ic = FcitxInstanceGetCurrentIC(inst);
 
     MSymbol msym = KeySymToSymbol(sym, state);
