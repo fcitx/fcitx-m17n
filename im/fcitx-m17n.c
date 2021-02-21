@@ -408,6 +408,8 @@ FcitxIRV FcitxM17NDoInput(void* arg, FcitxKeySym sym, unsigned state)
         }
     }
 
+    sym = FcitxInputStateGetKeySym(is);
+    state = FcitxInputStateGetKeyState(is);
     return FcitxM17NDoInputInternal(im, sym, state);
 }
 
