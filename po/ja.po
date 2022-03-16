@@ -4,15 +4,18 @@
 #
 # Translators:
 # shirou - しろう <shirou.faw@gmail.com>, 2013
+# 0bytetest_green <xenolith0bytetestcomgreen@gmail.com>, 2015
+# shirou - しろう <shirou.faw@gmail.com>, 2013
 # shirou - しろう <shirou.faw@gmail.com>, 2013
 # 0bytetest_green <xenolith0bytetestcomgreen@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2017-06-09 07:36-0700\n"
-"PO-Revision-Date: 2015-06-20 09:00+0000\n"
-"Last-Translator: 0bytetest_green <xenolith0bytetestcomgreen@gmail.com>\n"
+"POT-Creation-Date: 2022-03-16 20:27+0000\n"
+"PO-Revision-Date: 2012-03-03 14:44+0000\n"
+"Last-Translator: 0bytetest_green <xenolith0bytetestcomgreen@gmail.com>, "
+"2015\n"
 "Language-Team: Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +23,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: im/fcitx-m17n.c:578
+#: im/fcitx-m17n.c:580
 #, c-format
 msgid "%s (M17N)"
 msgstr "%s (M17N)"
