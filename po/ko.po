@@ -4,13 +4,14 @@
 #
 # Translators:
 # Bon Keun Seo <scobyseo@gmail.com>, 2017
+# Junghee Lee <daemul72@gmail.com>, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2017-09-14 16:03-0700\n"
-"PO-Revision-Date: 2017-08-03 16:58+0000\n"
-"Last-Translator: Bon Keun Seo <scobyseo@gmail.com>\n"
+"POT-Creation-Date: 2022-04-09 20:27+0000\n"
+"PO-Revision-Date: 2012-03-03 14:44+0000\n"
+"Last-Translator: Junghee Lee <daemul72@gmail.com>, 2022\n"
 "Language-Team: Korean (http://www.transifex.com/fcitx/fcitx/language/ko/)\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: im/fcitx-m17n.c:578
+#: im/fcitx-m17n.c:580
 #, c-format
 msgid "%s (M17N)"
 msgstr "%s (M17N)"
@@ -62,7 +63,7 @@ msgstr "M17N"
 
 #: im/fcitx-m17n.conf.in:4
 msgid "M17N IM Support For Fcitx"
-msgstr "Fcitx를 위한 M17N 입력기"
+msgstr "Fcitx용 M17N 입력기 지원"
 
 #: im/fcitx-m17n.desc:7
 msgid "Next Page"
@@ -70,11 +71,11 @@ msgstr "다음 페이지"
 
 #: im/i18nname.c:10
 msgid "Pinyin"
-msgstr "병음"
+msgstr "Pinyin"
 
 #: im/i18nname.c:7
 msgid "Pinyin Symbol"
-msgstr "병음 기호"
+msgstr "Pinyin 기호"
 
 #: im/fcitx-m17n.desc:2
 msgid "Prev Page"
@@ -90,4 +91,4 @@ msgstr "로마자"
 
 #: im/i18nname.c:11
 msgid "Tone Pinyin"
-msgstr "음조 병음"
+msgstr "음조 Pinyin"
