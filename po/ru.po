@@ -10,10 +10,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2023-03-23 20:26+0000\n"
+"POT-Creation-Date: 2023-07-25 20:26+0000\n"
 "PO-Revision-Date: 2012-03-03 14:44+0000\n"
 "Last-Translator: Dmitry <dmitrydmitry761@gmail.com>, 2022-2023\n"
-"Language-Team: Russian (http://www.transifex.com/fcitx/fcitx/language/ru/)\n"
+"Language-Team: Russian (http://app.transifex.com/fcitx/fcitx/language/ru/)\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -37,7 +37,7 @@ msgstr "Цанцзе"
 
 #: im/i18nname.c:8
 msgid "Chewing Symbol"
-msgstr "Символ чжуинь"
+msgstr "Символ Чжуинь"
 
 #: im/fcitx-m17n.desc:12
 msgid "Enable deprecated Input method"
@@ -86,7 +86,7 @@ msgstr "Предыдущая страница"
 
 #: im/i18nname.c:16
 msgid "Quick"
-msgstr "Быстро"
+msgstr "Упрощённый метод Цанцзе"
 
 #: im/i18nname.c:15
 msgid "Romaja"
